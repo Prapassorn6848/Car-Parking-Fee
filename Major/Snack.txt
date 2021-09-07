@@ -1,0 +1,14 @@
+Small   :   100
+Medium : 120
+Large   :   140
+Jumbo   :   160
+32 Oz.   :  75
+44 Oz.   :   85
+Oishi   :   40
+Ishitan   :   35
+Water drink   :  20
+Couple Set   :   300
+Party Set    :   390
+Combo Set   :   300
+Mix Sausage  :  50
+Sausage Waffle  :  50

@@ -1,0 +1,3 @@
+Normal  :  140
+Honeymoon  : 180
+Pair : 500
